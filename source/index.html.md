@@ -8,9 +8,6 @@ toc_footers:
   - <a href='https://kcep.auth.us-east-2.amazoncognito.com/signup?redirect_uri=https%3A%2F%2Fkcep.run&response_type=code&client_id=5hb0vho57tjnds23838up09mm1&state=c9NwnG47RDANkENv6MXtwcwyrM5PpQYO&scope=email%20profile%20openid'>Registre-se para obter uma chave de desenvolvimento</a>
   - <a href='https://github.com/lord/slate'>Documentação impulsionada por Slate</a>
 
-includes:
-  - errors
-
 search: false
 ---
 
